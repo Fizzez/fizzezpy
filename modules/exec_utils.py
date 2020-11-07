@@ -1,5 +1,5 @@
 """
-Utilities used in machine learning tasks.
+Utilities used as exec eval tools.
 """
 
 import logging
