@@ -1,5 +1,5 @@
 """
-Utilities used as exec eval tools.
+Exec eval utilities.
 """
 
 import logging

@@ -1,5 +1,5 @@
 """
-Utilities used in pytorch tasks.
+PyTorch task utilities.
 """
 
 import torch.utils.tensorboard as tb
